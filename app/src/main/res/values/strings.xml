@@ -48,12 +48,12 @@
     <string name="AlbumThumbnailView_plus" translatable="false">\+%d</string>
 
     <!-- ApplicationMigrationActivity -->
-    <string mollyify="true" name="ApplicationMigrationActivity__signal_is_updating">Molly is updating…</string>
+    <string mollyify="true" name="ApplicationMigrationActivity__signal_is_updating">Ghost is updating…</string>
 
     <!-- ApplicationPreferencesActivity -->
     <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet">You haven\'t set a passphrase yet!</string>
     <string name="ApplicationPreferencesActivity_disable_passphrase">Disable passphrase?</string>
-    <string mollyify="true" name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">This will permanently unlock Molly and message notifications.</string>
+    <string mollyify="true" name="ApplicationPreferencesActivity_this_will_permanently_unlock_signal_and_message_notifications">This will permanently unlock Ghost and message notifications.</string>
     <string name="ApplicationPreferencesActivity_disable">Disable</string>
     <string name="ApplicationPreferencesActivity_error_connecting_to_server">Error connecting to server!</string>
     <string name="ApplicationPreferencesActivity_pins_are_required_for_registration_lock">PINs are required for registration lock. To disable PINs, please first disable registration lock.</string>
@@ -98,7 +98,7 @@
     <string name="AttachmentKeyboard_location">Location</string>
     <!-- Text for a button that will allow users to create a poll -->
     <string name="AttachmentKeyboard_poll">Poll</string>
-    <string mollyify="true" name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Molly needs permission to show your photos and videos</string>
+    <string mollyify="true" name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Ghostneeds permission to show your photos and videos</string>
     <!-- Text for a button prompting users to allow Signal access to their gallery storage -->
     <string name="AttachmentKeyboard_allow_access">Allow Access</string>
     <string name="AttachmentKeyboard_payment">Payment</string>
