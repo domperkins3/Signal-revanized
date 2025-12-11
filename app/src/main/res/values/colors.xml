@@ -3,7 +3,7 @@
     <color name="white">@color/core_white</color>
     <color name="black">@color/core_black</color>
 
-    <color name="signal_accent_green">#4CAF50</color>
+    <color name="signal_accent_green">#00a485</color>
 
     <color name="story_gradient_start">#99000000</color>
     <color name="story_caption_gradient_start">#CC000000</color>
